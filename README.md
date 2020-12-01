@@ -1,1 +1,1 @@
-# howToWinInChess
+# Chess game for soul.ua
